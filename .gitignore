@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+.env/
+.venv/
+env/
+venv/
+
+# Virtual environment packages
+*.egg-info/
+*.eggs/
+dist/
+build/
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Dataset files (optional - if large or sensitive)
+data/*.csv
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and dumps
+*.log
+
+# VS Code settings (optional)
+.vscode/
